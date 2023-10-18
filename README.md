@@ -20,7 +20,7 @@ A database-based library management system built using SQLite3 and Python. The s
 -  Windows 7/8/10/11 or iOS operating system
 -   Python code editor (e.g VS Code)
 
-### [Installing](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc#installing)
+### [Installing]
 
 1. Clone the repository to your local machine using Git:
 
